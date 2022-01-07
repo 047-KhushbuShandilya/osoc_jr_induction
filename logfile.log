@@ -1,0 +1,36 @@
+commit 8c5ea20703ec5e00241819dfd3a0354b5182e265
+Author: 047-KhushbuShandilya <kmishra5403@gmail.com>
+Date:   Fri Jan 7 12:56:48 2022 +0530
+
+    mergefile.txt is committed in main
+
+commit 063f8a9c0e16959853f3b440c970046dd0cc7375
+Merge: 8517989 02fca75
+Author: 047-KhushbuShandilya <kmishra5403@gmail.com>
+Date:   Fri Jan 7 12:39:36 2022 +0530
+
+    resolving merge conflicts
+
+commit 8517989b497fb8eda08ccf254efa9d49960f9acc
+Author: 047-KhushbuShandilya <kmishra5403@gmail.com>
+Date:   Fri Jan 7 12:13:48 2022 +0530
+
+    committing changes to create a conflict
+
+commit 02fca75862dab4307e098c5d0bd5af74032b16f1
+Author: 047-KhushbuShandilya <kmishra5403@gmail.com>
+Date:   Fri Jan 7 12:05:58 2022 +0530
+
+    readme file is committed in new branch
+
+commit 02e57412a44e760db538a36fe7aa17c069f81ee7
+Author: 047-KhushbuShandilya <kmishra5403@gmail.com>
+Date:   Fri Jan 7 11:12:34 2022 +0530
+
+    git commands committed
+
+commit 84d38b4625e3c648eeaf1bbdc9fd542fa954fdb0
+Author: SHANOOR AHMED <76896805+shanoorahmed@users.noreply.github.com>
+Date:   Mon Jan 3 00:41:26 2022 +0530
+
+    Initial commit
