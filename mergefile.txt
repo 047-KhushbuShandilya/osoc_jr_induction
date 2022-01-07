@@ -1,0 +1,7 @@
+To create a conflict,some contents were written in README.md in new_branch.
+Then in main branch,contents different from that in new_branch were written.
+When we try to merge the branches, a conflict is created.
+
+On opening README.md,we see some conflict dividers.
+
+To resolve the merge conflict, we edited the conflicted file along with conflict dividers and then commit the changes.
