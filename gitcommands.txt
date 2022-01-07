@@ -1,0 +1,21 @@
+1. git log
+This command is used to check the commit history
+2. git remote
+This command is used to connect local repository to the remote server
+3. git config
+This command assigns settings such as user.name and user.email
+4. git stash
+Save changes made when they are not in a state to commit them to a repository
+5. git rm
+Removes files or directories from the working index
+6. git fetch
+This command downloads commits, objects and refs from another repository
+7. git diff
+This command is used to track the difference between the changes made on a file
+8. git mv
+This command moves or renames a file,directory or symlink
+9. git pull
+This command is used to update the local version of a repository from a remote
+10. git reset
+This command is used to undo local changes to the state of a Git repo.
+
